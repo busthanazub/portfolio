@@ -1,0 +1,47 @@
+.one{
+ background-image: url(https://wallpaperaccess.com/full/1280186.jpg);
+ background-repeat: no-repeat;
+ padding: 17%;   
+}
+
+.two{
+ background-color: black;
+ color: white;
+ padding: 6%;
+ text-align: center;
+}
+
+.three{
+    background-color: black;
+    color: white;
+    padding: 7%;
+    text-align: center;
+}
+
+.four{
+    background-color: black;
+    color: white;
+    padding: 7%;
+    text-align: center;
+
+       
+     }
+
+
+.last{
+    background-color: black;
+    color: white;
+    padding: 7%;
+    text-align: center;
+}
+
+.final{
+    background-color: black;
+    color: white;
+    padding: 7%;
+    text-align: center;
+}
+
+img:hover{
+    transform: scale(2.0);
+}
